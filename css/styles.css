@@ -1,0 +1,21 @@
+h2.introduction {
+  font-size: 40px;
+  font-family: fantasy;
+  color: indigo-blue;
+  text-align: center;
+}
+p.introduction {
+  font-size: 30px;
+  color: maroon;
+  text-overflow: clip;
+}
+img.introduction {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img.intermediate {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
